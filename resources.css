@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color:#80ED99 ;
+  font-family: helvetica;
+  background-image: url('https://64.media.tumblr.com/f2edacfb84c93f266b4893b7f9efbc68/b145bd3f8048bf75-4e/s400x600/3d66a606570b50e434511a87bb4292cc48b5e452.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h3{
+  background-color: greenyellow;
+}

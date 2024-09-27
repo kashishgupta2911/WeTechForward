@@ -1,0 +1,41 @@
+button {
+  margin: 13px;
+  padding: 10px 16px;
+  border: 1px solid #4A37E7;
+  background: #4A37E7;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+button:hover{
+  background-color: #BF92E4;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: powderblue;
+}
+
+.logo {
+  margin-right: 10px; 
+  padding-left: 30px;
+}
+
+.menu-buttons {
+  display: flex;
+}
+
+.menu-buttons button {
+  margin-right: 10px; 
+}
+
+a{
+  color: white
+}
+
+.buttons{
+  height: 100px;
+  width: 100px; 
+}

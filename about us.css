@@ -1,0 +1,72 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color:#80ED99 ;
+  font-family: helvetica;
+  background-image: url('https://64.media.tumblr.com/f2edacfb84c93f266b4893b7f9efbc68/b145bd3f8048bf75-4e/s400x600/3d66a606570b50e434511a87bb4292cc48b5e452.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner{
+    max-width: 100%;
+    height: auto;
+}
+
+p{
+  text-align: justify;
+  color: black;
+  padding: 4px;
+  text-shadow: whitesmoke;
+  width: 350px;
+  font-family: Helvetica;
+}
+
+i{
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+img {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+h2{
+  background-color: #16DB65 ;
+  color: black;
+  border-radius: 5px;
+  font-style: helvetica;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-align: center;
+  height: 30px;
+  width: 350px;
+}
+
+h2:hover{
+  background-color: #C7F9CC;
+}
+
+img:hover{
+  background-color: white;
+}
+
+ .row {
+    display: flex;
+  }
+
+  .column {
+    flex: 1;
+    padding: 10px;
+  }
+
+  .column img {
+    max-width: 100%;
+  }
